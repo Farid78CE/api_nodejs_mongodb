@@ -1,0 +1,8 @@
+npm init
+npm install express mongoose dotenv
+npm install -D nodemon
+
+
+
+reference:
+https://www.freecodecamp.org/news/build-a-restful-api-using-node-express-and-mongodb/
